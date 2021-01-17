@@ -2,7 +2,7 @@
   "name": "my-sudoku",
   "version": "0.1.0",
   "private": true,
-  "homepage":  "https://tobychen0106.github.io/109-1-Web-Hackathon02-Example/",
+  "homepage": "https://tobychen0106.github.io/109-1-Web-Hackathon02-Example/",
   "dependencies": {
     "-": "^0.0.1",
     "@material-ui/core": "^4.11.0",
@@ -11,7 +11,6 @@
     "@testing-library/user-event": "^12.1.10",
     "fireworks": "^2.2.6",
     "fs": "^0.0.1-security",
-    "gh-pages": "^3.1.0",
     "list-files": "^1.1.4",
     "react": "^16.8.0",
     "react-dom": "^16.8.0",
@@ -44,5 +43,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^3.1.0"
   }
 }
